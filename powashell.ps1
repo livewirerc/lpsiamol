@@ -1,0 +1,1 @@
+ new-sdrive -name powashell -psprovider filesystem -root F:\Schoolin\lpsiamol
