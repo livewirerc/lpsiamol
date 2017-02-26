@@ -1,6 +1,6 @@
 GREATEST COMMANDS
 
-get-alisas # alias is 'gal' - Gets alias of something. use -definition to look up aliases of a command.
+
 get-help
 get-ChildItem
 get-Process
